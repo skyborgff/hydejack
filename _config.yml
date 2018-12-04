@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://domain.tld
+url:                   https://skyborgff.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -16,10 +16,10 @@ baseurl:               ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  pt
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 Funções holomórficas
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -29,8 +29,9 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Best Jekyll Theme by a Mile".
-  Open `_config.yml` to edit this text.
+  continuação analítica e
+  introdução à função Gamma e a
+  função zeta de Riemann
 
 # A list of keywords for your blog
 keywords:              []
@@ -38,7 +39,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/icons/icon.png
+#logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -49,8 +50,9 @@ author:
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
-  © 2018. All rights reserved.
-  Open `_config.yml` to edit this text.
+  ####  Trabalho realizado por:
+
+  Pedro Capelas - 89270 | Ricardo Santos - 89270 | Fábio Ferreira - 89270
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
@@ -64,7 +66,7 @@ copyright:             >
 permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
-paginate:              5
+paginate:              1
 paginate_path:         /page-:num/
 
 
@@ -72,7 +74,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          /assets/img/sidebar-bg2.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
@@ -94,7 +96,7 @@ font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 
 defaults:
   - scope:
-      path:            hyde
+      path:           2018-06-01-example-content-iii.md
     values:
       accent_color:    rgb(38,139,210)
       accent_image:
@@ -108,16 +110,7 @@ defaults:
     values:
       seo:
         type:          WebPage
-  - scope:
-      type:            featured_categories
-    values:
-      seo:
-        type:          WebPage
-  - scope:
-      type:            featured_tags
-    values:
-      seo:
-        type:          WebPage
+
 
 
 # 3rd Party Integrations
