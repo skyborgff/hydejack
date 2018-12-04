@@ -1,14 +1,20 @@
 ---
 layout: post
-title: Example Content III
+title: Funções-holomórficas
+slug: Funções-holomórficas
+menu: false
+order: 1
 description: >
-  A page showing Hydejack-specific markdown content.
-image: /assets/img/blog/example-content-iii.jpg
+
 ---
 
-Hydejack offers a few additional features to markup your markdown.
-Don't worry, these are merely CSS classes added with kramdown's `{:...}` syntax,
-so that your content remains compatible with other Jekyll themes.
+## Funções holomórficas, continuação analítica e introdução à função Gamma e a função zeta de Riemann
+
+Para introduzir continuação analítica e posteriormente a função zeta de
+Riemann começaremos por explicar o que é uma série geométrica.
+Uma série geométrica é uma série que tem um rácio constante entre
+termos. As suas somas parciais são dadas por:
+
 
 ## Large Tables
 
