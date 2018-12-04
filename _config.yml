@@ -19,13 +19,11 @@ baseurl:               ''
 lang:                  pt
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Funções holomórficas
+title:                 <a href="/trabalho/2018-06-01-trabalho/" >Funções holomórficas</a>
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           >
-  "Best Jekyll Theme by a Mile".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
+description:
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -44,7 +42,6 @@ keywords:              []
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -241,15 +238,10 @@ include:
 
 plugins:
   - jekyll-default-layout
-  - jekyll-feed
   - jekyll-optional-front-matter
-  - jekyll-paginate
-  - jekyll-readme-index
   - jekyll-redirect-from
   - jekyll-relative-links
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-titles-from-headings
+
 
 # Theme
 # ---------------------------------------------------------------------------------------
