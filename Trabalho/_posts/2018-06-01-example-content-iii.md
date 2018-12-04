@@ -77,11 +77,11 @@ volta deste ponto de raio igual à distância entre $$ z_0 $$ e o polo mais
 próximo, que neste caso é $$ z=1 $$. Se escolhermos, $$ z_0=\dfrac {1}{4}+\dfrac {1}{2} i $$
 esta será convergente num círculo de raio $$ \dfrac {\sqrt {13}}{4} $$(ver figura 2).
 
-![Full-width image](http://localhost:4000/trabalho/f1.png){:.lead data-width="1059" data-height="1033"}
+![Full-width image](ttps://skyborgff.github.io/Trabalho/f1.png){:.lead data-width="1059" data-height="1033"}
 Figura 1-Série convergente 1
 {:.figure}
 
-![Full-width image](http://localhost:4000/trabalho/f2.png){:.lead data-width="19" data-height="1033"}
+![Full-width image](https://skyborgff.github.io/Trabalho/f2.png){:.lead data-width="19" data-height="1033"}
 Figura 2-Série convergente 2
 {:.figure}
 
@@ -90,7 +90,7 @@ segundo círculo criado e que não esteja no primeiro. Por exemplo,
 $$ z_0= \dfrac {1}{2}+i $$ criará um círculo de raio
 $$ \dfrac {\sqrt {5}}{2} $$ (ver figura 3).
 
-![Full-width image](http://localhost:4000/trabalho/f3.png){:.lead data-width="19" data-height="1033"}
+![Full-width image](ttps://skyborgff.github.io/Trabalho/f3.png){:.lead data-width="19" data-height="1033"}
 Figura 3-Série convergente 3
 {:.figure}
 
@@ -111,11 +111,11 @@ n fatorial. A função é representada por:
 Esta função é estendida a todos os números reais e complexos exceto
 os números inteiros negativos em que a função tem polos simples.
 
-![Full-width image](http://localhost:4000/trabalho/f4.png){:.lead data-width="800" data-height="100"}
+![Full-width image](https://skyborgff.github.io/Trabalho/f4.png){:.lead data-width="800" data-height="100"}
 Figura 4 – Função Gamma em $$ \mathbb{R} $$
 {:.figure}
 
-![Full-width image](http://localhost:4000/trabalho/f5.png){:.lead data-width="800" data-height="100"}
+![Full-width image](https://skyborgff.github.io/Trabalho/f5.png){:.lead data-width="800" data-height="100"}
 Figura 5 – Módulo da função Gamma em $$ \mathbb{C} $$
 {:.figure}
 
@@ -175,11 +175,11 @@ a mais adequada:
 em que γ está representada na figura 7.
 Uma representação possível desta função está feita na figura 6.
 
-![Full-width image](http://localhost:4000/trabalho/f6.png){:.lead data-width="800" data-height="100"}
+![Full-width image](https://skyborgff.github.io/Trabalho/f6.png){:.lead data-width="800" data-height="100"}
 Figura 6-Função Zeta de Riemann
 {:.figure}
 
-![Full-width image](http://localhost:4000/trabalho/f7.png){:.lead data-width="800" data-height="100"}
+![Full-width image](https://skyborgff.github.io/Trabalho/f7.png){:.lead data-width="800" data-height="100"}
 Figura 7-Curva para calcular o integral de curva
 {:.figure}
 
@@ -209,11 +209,11 @@ se $$x_1\leqslant x_2$$ então $$f(x_1)\geqslant f(x_2)$$,
 ou seja, $$f'(x)\leqslant 0$$.
 {:.faded}
 
-![Full-width image](http://localhost:4000/trabalho/f8.png){:.lead data-width="800" data-height="100"}
+![Full-width image](https://skyborgff.github.io/Trabalho/trabalho/f8.png){:.lead data-width="800" data-height="100"}
 Figura 8-Módulo da função zeta
 {:.figure}
 
-![Full-width image](http://localhost:4000/trabalho/f9.png){:.lead data-width="800" data-height="100"}
+![Full-width image](https://skyborgff.github.io/Trabalho/trabalho/f9.png){:.lead data-width="800" data-height="100"}
 Figura 9-Função Zeta  na linha vertical $$Re(z) =\dfrac {1}{2}$$
 {:.figure}
 
