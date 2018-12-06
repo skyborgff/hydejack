@@ -78,10 +78,12 @@ próximo, que neste caso é $$ z=1 $$. Se escolhermos, $$ z_0=\dfrac {1}{4}+\dfr
 esta será convergente num círculo de raio $$ \dfrac {\sqrt {13}}{4} $$(ver figura 2).
 
 ![](https://skyborgff.github.io/Trabalho/sf1.png)
+
 Figura 1-Série convergente 1
 {:.figure}
 
 ![](https://skyborgff.github.io/Trabalho/sf2.png)
+
 Figura 2-Série convergente 2
 {:.figure}
 
@@ -91,6 +93,7 @@ $$ z_0= \dfrac {1}{2}+i $$ criará um círculo de raio
 $$ \dfrac {\sqrt {5}}{2} $$ (ver figura 3).
 
 ![](https://skyborgff.github.io/Trabalho/sf3.png)
+
 Figura 3-Série convergente 3
 {:.figure}
 
@@ -112,10 +115,12 @@ Esta função é estendida a todos os números reais e complexos exceto
 os números inteiros negativos em que a função tem polos simples.
 
 ![](https://skyborgff.github.io/Trabalho/sf4.png)
+
 Figura 4 – Função Gamma em $$ \mathbb{R} $$
 {:.figure}
 
 ![](https://skyborgff.github.io/Trabalho/sf5.png)
+
 Figura 5 – Módulo da função Gamma em $$ \mathbb{C} $$
 {:.figure}
 
@@ -176,10 +181,12 @@ em que γ está representada na figura 7.
 Uma representação possível desta função está feita na figura 6.
 
 ![Full-width image](https://skyborgff.github.io/Trabalho/f6.png)
+
 Figura 6-Função Zeta de Riemann
 {:.figure}
 
 ![Full-width image](https://skyborgff.github.io/Trabalho/f7.png)
+
 Figura 7-Curva para calcular o integral de curva
 {:.figure}
 
@@ -210,10 +217,12 @@ ou seja, $$f'(x)\leqslant 0$$.
 {:.faded}
 
 ![](https://skyborgff.github.io/Trabalho/sf8.png)
+
 Figura 8-Módulo da função zeta
 {:.figure}
 
 ![](https://skyborgff.github.io/Trabalho/sf9.png)
+
 Figura 9-Função Zeta  na linha vertical $$Re(z) =\dfrac {1}{2}$$
 {:.figure}
 
