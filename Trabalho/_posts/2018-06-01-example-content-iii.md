@@ -19,6 +19,7 @@ termos. As suas somas parciais são dadas por:
 
 (1)
 {: style="text-align: right"}
+<script type="text/javascript" id="WolframAlphaScriptd152bf4eef70efc8de8bc7b38efaf6e7" src="//www.wolframalpha.com/widget/widget.jsp?id=d152bf4eef70efc8de8bc7b38efaf6e7&theme=teal"></script>
 
 Multiplicando (1) por *z* e adicionando 1 vemos que:
 
