@@ -19,7 +19,7 @@ baseurl:               ''
 lang:                  pt
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 <a href="/trabalho/2018-06-01-trabalho/" >Funções holomórficas</a>
+title:                 <a href="/trabalho/2018-12-17-trabalho/" >Funções holomórficas</a>
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
