@@ -23,7 +23,7 @@ termos. As suas somas parciais são dadas por:
 
 Multiplicando (1) por *z* e adicionando 1 vemos que:
 
-\$$ zS_n+1=1+z+z^2+z^3+⋯+z^n+z^(n+1)= S_n+z^{(n+1)} $$
+\$$ zS_n+1=1+z+z^2+z^3+⋯+z^n+z^{(n+1)}= S_n+z^{(n+1)} $$
 
 O que é equivalente a:
 
@@ -52,7 +52,7 @@ volta de $$ z+z_0 $$:
 
 Contudo, esta série de Taylor só converge, para funções
 meromórficas<sup>1</sup> ,num círculo de raio igual à distância
-entre z_0 e o polo mais próximo.
+entre $$ z_0 $$ e o polo mais próximo.
 
 <sup>1</sup>Uma função meromórfica é uma função holomórfica em todo o seu
 domínio, exceto para um conjunto discreto de pontos isolados,
@@ -64,7 +64,7 @@ para valores de *z* entre 0 e 1. Para números complexos, é a mesma coisa
 mas tal que $$ 0<|z|<1 $$. Como é convergente neste raio, podemos dizer que
 a série é holomórfica
 
-Tendo esta informação em mente e voltado à série geométrica vemos que,
+Tendo esta informação em mente e voltando à série geométrica vemos que,
 se $$ z_0=0 $$ então a sua série de Taylor converge apenas num círculo
 de raio 1, no plano complexo (ver figura 1).
 
@@ -149,7 +149,7 @@ com a letra s no seu artigo
 Foi descoberta uma relação pelo matemático Riemann que lhe permitiu
 fazer continuação analítica:
 
-\$$ \Gamma (\dfrac {s}{2})=\zeta (s)\pi^{- \frac {s}{2}}= \Gamma( \dfrac {1-s}{2} ) \zeta(1-s) \pi^{- \frac {1-s}{2}} $$
+\$$ \Gamma (\dfrac {s}{2}) \zeta (s)\pi^{- \frac {s}{2}}= \Gamma( \dfrac {1-s}{2} ) \zeta(1-s) \pi^{- \frac {1-s}{2}} $$
 
 Esta função tem propriedades, para dizer no mínimo, interessantes
 (depois de ser continuada analiticamente).
