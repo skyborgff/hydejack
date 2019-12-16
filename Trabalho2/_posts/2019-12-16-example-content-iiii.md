@@ -106,7 +106,7 @@ and use the Fourier transform to analyze the intensity of the chosen frequencies
 That’s how an audio spectrogram works.
 
 <div class="container">
-        <script src="https://raw.githubusercontent.com/skyborgff/skyborgff.github.io/master/_includes/scripts/main.js"></script>
+        <script src="https://skyborgff.github.io/assets/js/main.js"></script>
         <script src="https://unpkg.com/wavesurfer.js"></script>
 		<script src="https://unpkg.com/wavesurfer.js/dist/plugin/wavesurfer.spectrogram.js"></script>
     <!-- Initialize a div for WaveSurfer -->
