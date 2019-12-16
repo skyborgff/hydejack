@@ -19,7 +19,7 @@ baseurl:               ''
 lang:                  pt
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 <a href="/trabalho2/2019-12-16-trabalho2/" >Fourier Transform</a>
+title:                 <a href="/trabalho2/2019-12-16-trabalho/" >Fourier Transform</a>
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
