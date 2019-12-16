@@ -107,7 +107,7 @@ That’s how an audio spectrogram works.
 
 
   <div class="container">
-        <script src="./scripts/main.js"></script>
+        <script src="https://raw.githubusercontent.com/skyborgff/skyborgff.github.io/master/_includes/scripts/main.js"></script>
         <script src="https://unpkg.com/wavesurfer.js"></script>
 		<script src="https://unpkg.com/wavesurfer.js/dist/plugin/wavesurfer.spectrogram.js"></script>
     <!-- Initialize a div for WaveSurfer -->
