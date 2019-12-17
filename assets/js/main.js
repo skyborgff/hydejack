@@ -108,7 +108,7 @@ var GLOBAL_ACTIONS = {
         wavesurfer.load("https://skyborgff.github.io/assets/audio/2k.wav");
     },
     play_20k: function() {
-        wavesurfer.load("https://skyborgff.github.io/assets/audio/2ok.wav");
+        wavesurfer.load("https://skyborgff.github.io/assets/audio/20k.wav");
     },
     play_lin: function() {
         wavesurfer.load("https://skyborgff.github.io/assets/audio/20-20k_lin.ogg");
