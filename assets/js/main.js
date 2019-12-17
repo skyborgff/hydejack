@@ -105,22 +105,22 @@ var GLOBAL_ACTIONS = {
         wavesurfer.toggleMute();
     },
     play_2k: function() {
-        wavesurfer.load(https://skyborgff.github.io/assets/audio/2k.wav);
+        wavesurfer.load("https://skyborgff.github.io/assets/audio/2k.wav");
     },
     play_20k: function() {
-        wavesurfer.load(https://skyborgff.github.io/assets/audio/2ok.wav);
+        wavesurfer.load("https://skyborgff.github.io/assets/audio/2ok.wav");
     },
     play_lin: function() {
-        wavesurfer.load(https://skyborgff.github.io/assets/audio/20-20k_lin.ogg);
+        wavesurfer.load("https://skyborgff.github.io/assets/audio/20-20k_lin.ogg");
     },
     play_log: function() {
-        wavesurfer.load(https://skyborgff.github.io/assets/audio/20-20k_log.ogg);
+        wavesurfer.load("https://skyborgff.github.io/assets/audio/20-20k_log.ogg");
     },
     play_demon: function() {
-        wavesurfer.load(https://skyborgff.github.io/assets/audio/demon_full.mp3);
+        wavesurfer.load("https://skyborgff.github.io/assets/audio/demon_full.mp3");
     },
     play_demon_slice: function() {
-        wavesurfer.load(https://skyborgff.github.io/assets/audio/demon_slice.wav);
+        wavesurfer.load("https://skyborgff.github.io/assets/audio/demon_slice.wav");
     },
 };
 
